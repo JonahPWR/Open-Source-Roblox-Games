@@ -1,6 +1,6 @@
 # 🎮 Open Source Roblox Games
 
-A collection of free, open-source Roblox game templates and systems built for beginner and intermediate developers. Every project is fully documented and designed to help you learn by reading real, working code.
+A collection of free, open-source Roblox game files built for beginner and intermediate developers. Download any game, open it in Roblox Studio, and learn by reading real, working code.
 
 ---
 
@@ -8,31 +8,47 @@ A collection of free, open-source Roblox game templates and systems built for be
 
 When I started learning Roblox development, I had to piece everything together from YouTube tutorials and forum posts. There were almost no open-source, well-documented projects I could actually open up, read through, and learn from the way developers do in other ecosystems.
 
-This repository is what I wish existed when I was starting out. Every game and system here is:
+This repository is what I wish existed when I was starting out. Every game here is:
 
 - **Free to use** — no credit required, no paywalls
-- **Fully commented** — code is written to be read and understood
-- **Beginner-friendly** — if you know basic Lua, you can follow along
-- **A real starting point** — not just demos, but actual usable templates
+- **Open to learn from** — open the files, read the scripts, understand how things work
+- **A real starting point** — not just demos, but actual games you can build on top of
 
 ---
 
-## 📁 Projects
+## 📁 Games
 
-| Project | Description | Difficulty |
-|---------|-------------|------------|
-| *(Coming soon)* | First project dropping shortly | Beginner |
-
-More projects are being added regularly. Star the repo to stay updated.
+| Game | File | Size |
+|------|------|------|
+| Camden At Home | [Camden-at-home.rbxl](./Camden-at-home.rbxl) | ~2.8 MB |
+| Clickity Click | [Clickity-Click.rbxl](./Clickity-Click.rbxl) | ~34 KB |
+| Fort Celestial | [Fort-Celestial.rbxl](./Fort-Celestial.rbxl) | ~1.1 MB |
+| Fort Creek | [Fort-Creek.rbxl](./Fort-Creek.rbxl) | ~1.7 MB |
+| Linhaven | [Linhaven.rbxl](./Linhaven.rbxl) | ~3.0 MB |
+| Naval Warfare At Home | [Naval-warfare-at-home.rbxl](./Naval-warfare-at-home.rbxl) | ~1.5 MB |
+| Noob Defense | [Noob-Defense.rbxl](./Noob-Defense.rbxl) | ~674 KB |
+| Public LvaH | [Public LvaH.rbxl](./Public%20LvaH.rbxl) | ~4.5 MB |
+| Qualification Course | [Qualification-Course.rbxl](./Qualification-Course.rbxl) | ~58 KB |
+| Robbing Simulator | [Robbing Simulator.rbxl](./Robbing%20Simulator.rbxl) | ~2.4 MB |
+| Siege Wars | [Siege Wars.rbxl](./Siege%20Wars.rbxl) | ~243 KB |
+| Site 103 | [Site-103.rbxl](./Site-103.rbxl) | ~1.1 MB |
+| Training Facility | [Training-Facility.rbxl](./Training-Facility.rbxl) | ~985 KB |
+| Trenches At Home | [Trenches-at-home.rbxl](./Trenches-at-home.rbxl) | ~67 KB |
+| Vehicle Testing | [Vehicle-Testing.rbxl](./Vehicle-Testing.rbxl) | ~257 KB |
+| Waterloo At Home | [Waterloo-at-home.rbxl](./Waterloo-at-home.rbxl) | ~6.6 MB |
+| When Day Breaks | [When-Day-Breaks.rbxl](./When-Day-Breaks.rbxl) | ~120 KB |
+| [WOLF] Base To Be Named | [[WOLF] Base to be named.rbxl](./%5BWOLF%5D%20Base%20to%20be%20named.rbxl) | ~384 KB |
+| [WOLF] Battlegrounds | [[WOLF] Battlegrounds.rbxl](./%5BWOLF%5D%20Battlegrounds.rbxl) | ~910 KB |
+| [WOLF] DEN | [[WOLF] DEN.rbxl](./%5BWOLF%5D%20DEN.rbxl) | ~204 KB |
 
 ---
 
 ## 🚀 Getting Started
 
-1. **Download or clone** this repository
+1. **Click any `.rbxl` file** in the table above and download it
 2. Open **Roblox Studio**
-3. Go to **File → Open from File** and select the `.rbxl` file for the project you want
-4. Read through the scripts — every important line has a comment explaining what it does
+3. Go to **File → Open from File** and select the downloaded file
+4. Explore the scripts — read through how things are built
 5. Build on top of it, break it, and make it your own
 
 ---
@@ -46,33 +62,19 @@ More projects are being added regularly. Star the repo to stay updated.
 
 ---
 
-## 📖 How the Code Is Written
-
-Every script in this repo follows the same principles:
-
-- **Comments on every meaningful block** — not just what the code does, but why
-- **Variables are named clearly** — no `x`, `y`, `temp` unless the context is obvious
-- **Scripts are split by responsibility** — one script does one thing
-- **ServerScript vs LocalScript is always explained** — a common point of confusion for beginners
-
----
-
 ## 🤝 Contributing
 
-Got a game system you want to open source? Found a bug? Contributions are welcome.
+Got a game you want to open source? Contributions are welcome.
 
 1. Fork the repo
-2. Create a branch (`git checkout -b feature/your-feature`)
-3. Commit your changes
-4. Open a pull request
-
-Please keep contributions beginner-friendly and well-commented.
+2. Add your `.rbxl` file and a short description
+3. Open a pull request
 
 ---
 
 ## 📜 License
 
-All projects in this repository are licensed under the **MIT License** — free to use, modify, and distribute.
+All projects in this repository are licensed under the **MIT License** — free to use, modify, and distribute. See [LICENSE](./LICENSE) for details.
 
 ---
 
