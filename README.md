@@ -1,6 +1,6 @@
 # 🎮 Open Source Roblox Games
 
-A collection of free, open-source Roblox game files built for beginner and intermediate developers. Download any game, open it in Roblox Studio, and learn by reading real code.
+A collection of free, open-source Roblox game files built for beginner and intermediate developers. Download any game, open it in Roblox Studio, and learn by reading real, working code.
 
 ---
 
@@ -41,6 +41,10 @@ This repository is what I wish existed when I was starting out. Every game here 
 | [WOLF] Battlegrounds | [[WOLF] Battlegrounds.rbxl](./%5BWOLF%5D%20Battlegrounds.rbxl) | ~910 KB |
 | [WOLF] DEN | [[WOLF] DEN.rbxl](./%5BWOLF%5D%20DEN.rbxl) | ~204 KB |
 
+### ⚠️ A Note on Authorship
+
+Not every game in this repo was made by me. Some are my own original projects, and others are games I found online that were already publicly available or uncopylocked by their original creators. The goal of this collection is purely educational — to give developers a variety of real game files to open, study, and learn from. If you are an original author of one of these games and would like it removed or credited differently, open an issue and I'll sort it out right away.
+
 ---
 
 ## 🚀 Getting Started
@@ -55,7 +59,7 @@ This repository is what I wish existed when I was starting out. Every game here 
 
 ## 🧠 Who This Is For
 
-- Developers who are just getting into game dev
+- Developers aged 13-17 who are just getting into game dev
 - Anyone learning Lua or Luau for the first time
 - Developers who learn better by reading real code than watching tutorials
 - Anyone who wants a solid base to build a full game without starting from scratch
