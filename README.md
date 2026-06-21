@@ -1,6 +1,6 @@
 # 🎮 Open Source Roblox Games
 
-A collection of free, open-source Roblox game files built for beginner and intermediate developers. Download any game, open it in Roblox Studio, and learn by reading real, working code.
+A collection of free, open-source Roblox game files built for beginner and intermediate developers. Download any game, open it in Roblox Studio, and learn by reading real code.
 
 ---
 
@@ -55,7 +55,7 @@ This repository is what I wish existed when I was starting out. Every game here 
 
 ## 🧠 Who This Is For
 
-- Developers aged 13-17 who are just getting into game dev
+- Developers who are just getting into game dev
 - Anyone learning Lua or Luau for the first time
 - Developers who learn better by reading real code than watching tutorials
 - Anyone who wants a solid base to build a full game without starting from scratch
